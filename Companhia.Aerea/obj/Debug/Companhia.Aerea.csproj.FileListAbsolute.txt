@@ -1,0 +1,17 @@
+C:\Users\pedro.abreu\source\repos\Companhia.Aerea\Companhia.Aerea\bin\Debug\Companhia.Aerea.exe.config
+C:\Users\pedro.abreu\source\repos\Companhia.Aerea\Companhia.Aerea\bin\Debug\Companhia.Aerea.exe
+C:\Users\pedro.abreu\source\repos\Companhia.Aerea\Companhia.Aerea\bin\Debug\Companhia.Aerea.pdb
+C:\Users\pedro.abreu\source\repos\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.csproj.CoreCompileInputs.cache
+C:\Users\pedro.abreu\source\repos\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.exe
+C:\Users\pedro.abreu\source\repos\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.pdb
+C:\Users\user\Desktop\UNA\Companhia.Aerea\Companhia.Aerea\bin\Debug\Companhia.Aerea.exe.config
+C:\Users\user\Desktop\UNA\Companhia.Aerea\Companhia.Aerea\bin\Debug\Companhia.Aerea.exe
+C:\Users\user\Desktop\UNA\Companhia.Aerea\Companhia.Aerea\bin\Debug\Companhia.Aerea.pdb
+C:\Users\user\Desktop\UNA\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UNA\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UNA\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.exe
+C:\Users\user\Desktop\UNA\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.pdb
+C:\Users\bruno\Desktop\Lista-de-Exercicios-1-a-6-master\MetodosOrdenacao-master\Companhia.Aerea-master\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Lista-de-Exercicios-1-a-6-master\MetodosOrdenacao-master\Companhia.Aerea-master\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Lista-de-Exercicios-1-a-6-master\MetodosOrdenacao-master\Companhia.Aerea-master\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.exe
+C:\Users\bruno\Desktop\Lista-de-Exercicios-1-a-6-master\MetodosOrdenacao-master\Companhia.Aerea-master\Companhia.Aerea\Companhia.Aerea\obj\Debug\Companhia.Aerea.pdb
